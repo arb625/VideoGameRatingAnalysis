@@ -1,7 +1,6 @@
 import csv
 import numpy as np
 import pandas as pd
-import scipy.interpolate as spi
 import matplotlib.pyplot as plt
 
 def is_number(string):
